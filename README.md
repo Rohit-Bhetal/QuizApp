@@ -46,6 +46,7 @@ static const FirebaseOptions android = FirebaseOptions(
 
 
 ### LightMode
+![Group 2(1)](https://github.com/Rohit-Bhetal/QuizApp/assets/96344296/e1fae4a4-2171-4785-84c0-f1b5112e5670)
 
 
 ### DarkMode
